@@ -1,7 +1,7 @@
 # Whisper Mic Dual Language
  Whisper implementation to display both mic input and its corresponding translation.
  
- This project is based on [OpenAI's Whisper]("https://github.com/openai/whisper) and [mallorbc's Whisper Mic]("https://github.com/mallorbc/whisper_mic").
+ This project is based on [OpenAI's Whisper](https://github.com/openai/whisper) and [mallorbc's Whisper Mic](https://github.com/mallorbc/whisper_mic).
 
 ## Setup
 
