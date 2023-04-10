@@ -1,0 +1,6 @@
+whisper
+queue
+threading
+torch
+numpy
+speech_recognition
